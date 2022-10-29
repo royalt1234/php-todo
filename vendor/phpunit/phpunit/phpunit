@@ -44,4 +44,4 @@ if (!defined('PHPUNIT_COMPOSER_INSTALL')) {
 
 require PHPUNIT_COMPOSER_INSTALL;
 
-PHPUnit_TextUI_Command::main();
+// PHPUnit_TextUI_Command::main();
